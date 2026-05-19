@@ -1,0 +1,86 @@
+# Marketing Funnel & Conversion Performance Analysis
+
+## Project Overview
+This project focuses on analyzing marketing funnel performance and customer conversion trends using Tableau Public.
+
+The objective of this analysis is to understand how users move through the marketing funnel and identify opportunities to improve lead conversion and campaign performance.
+
+The dashboard helps analyze:
+- Conversion performance
+- Campaign effectiveness
+- Contact channel efficiency
+- Monthly funnel trends
+- Customer acquisition insights
+
+---
+
+## Objectives
+- Analyze visitor-to-customer conversion trends
+- Compare campaign performance
+- Identify high-performing contact channels
+- Understand monthly conversion behavior
+- Generate actionable recommendations to improve conversions
+
+---
+
+##  Tools Used
+- Tableau Public
+- CSV Dataset
+- Data Visualization & Analytics
+
+---
+
+## Dashboard Features
+- Conversion Overview
+- Campaign Performance Analysis
+- Contact Conversion Analysis
+- Monthly Funnel Performance
+- Interactive Dashboard Filters
+
+---
+
+##  Key Insights
+- Certain campaigns generated significantly higher conversions
+- Contact methods impacted customer conversion performance
+- Some months showed stronger customer acquisition trends
+- Funnel drop-offs highlighted optimization opportunities
+
+---
+
+##  Business Recommendations
+- Focus marketing budget on high-performing campaigns
+- Improve low-converting funnel stages
+- Prioritize effective contact channels
+- Optimize lead nurturing and follow-up strategies
+
+---
+
+##  Live Dashboard
+View the interactive Tableau dashboard here:
+
+🔗 https://public.tableau.com/app/profile/sumedha.t.s.t.s/viz/MarketingFunnelConversionPerformanceAnalysis_17791650253040/MarketingFunnelConversionPerformanceAnalysis?publish=yes
+
+---
+
+##  Dashboard Preview
+(Add dashboard screenshot here)
+
+---
+
+## GitHub Repository
+https://github.com/sumedhats/FUTURE_DS_03
+
+---
+
+## Skills Demonstrated
+- Marketing Funnel Analysis
+- Conversion Analytics
+- Business Intelligence
+- Dashboard Design
+- Data Storytelling
+- Insight Generation
+
+---
+
+## Internship Task
+Completed as third part of the Data Science & Analytics Internship Program at Future Interns.
